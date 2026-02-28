@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Azalea",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2026-02-28T10:33:40.400144Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cum (feat. Iggy Azalea)",
+      "artist": "Brooke Candy feat. Iggy Azalea",
+      "has_synced": true,
+      "path": "select/01_Cum_(feat._Iggy_Azalea)_Brooke_Candy_feat._Iggy_Azalea.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cum (feat. Iggy Azalea)",
+      "artist": "Brooke Candy",
+      "has_synced": true,
+      "path": "select/02_Cum_(feat._Iggy_Azalea)_Brooke_Candy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kingdom Come (feat. Iggy Azalea)",
+      "artist": "Demi Lovato feat. Iggy Azalea",
+      "has_synced": true,
+      "path": "select/03_Kingdom_Come_(feat._Iggy_Azalea)_Demi_Lovato_feat._Iggy_Azalea.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kingdom Come (Feat. Iggy Azalea)",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/04_Kingdom_Come_(Feat._Iggy_Azalea)_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Problem (Dave Aude Twerk Edit) (Feat. Iggy Azalea)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/05_Problem_(Dave_Aude_Twerk_Edit)_(Feat._Iggy_Azalea)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Problem (Dawin Remix) (Feat. Iggy Azalea)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/06_Problem_(Dawin_Remix)_(Feat._Iggy_Azalea)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Problem (Feat. Iggy Azalea & J Balvin)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/07_Problem_(Feat._Iggy_Azalea_&_J_Balvin)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Problem (Feat. Iggy Azalea)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/08_Problem_(Feat._Iggy_Azalea)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Problem (Feat. Iggy Azalea) (Wayne G Club Mix)",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/09_Problem_(Feat._Iggy_Azalea)_(Wayne_G_Club_Mix)_Ariana_Grande.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Mediocre (Feat. Iggy Azalea)",
+      "artist": "T.I.",
+      "has_synced": true,
+      "path": "select/10_No_Mediocre_(Feat._Iggy_Azalea)_T.I..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cum (feat. Iggy Azalea)",
+      "artist": "Brooke Candy Iggy Azalea",
+      "has_synced": true,
+      "path": "select/11_Cum_(feat._Iggy_Azalea)_Brooke_Candy_Iggy_Azalea.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flor de Azalea",
+      "artist": "Trío Calaveras",
+      "has_synced": false,
+      "path": "select/12_Flor_de_Azalea_Trío_Calaveras.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Problem (Ft. Iggy Azalea)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/13_Problem_(Ft._Iggy_Azalea)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wickedest Style (Feat. Iggy Azalea)",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/14_Wickedest_Style_(Feat._Iggy_Azalea)_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Problem (Feat. Iggy Azalea)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/15_Problem_(Feat._Iggy_Azalea)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Problem [Ft. Iggy Azalea]",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/16_Problem_[Ft._Iggy_Azalea]_Ariana_Grande.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Azalea",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_Azalea_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Azalea",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_Azalea_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Azalea",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_Azalea_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Azalea",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_Azalea_米津玄師.txt"
+    }
+  ]
+}
